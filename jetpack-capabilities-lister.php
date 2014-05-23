@@ -20,7 +20,8 @@ add_action( 'admin_notices', function() {
 		'jetpack_deactivate_modules',
 		'jetpack_configure_modules',
 		'jetpack_admin_page',
-		'jetpack_connect_user'
+		'jetpack_connect_user',
+		'manage_options'
 	);
 
 
